@@ -1,0 +1,17 @@
+audio {
+    width: 400px; /* Tùy chỉnh chiều rộng */
+    border: 2px solid #333; /* Viền */
+    border-radius: 20px; /* Bo góc */
+    background-color: #fefeff; /* Nền */
+}
+body {
+    background-image: url(tbinh.jpeg);
+    
+    /*display: flex;  Sử dụng Flexbox */
+    justify-content: center; /* Căn ngang */
+    align-items: center; /* Căn dọc */
+    height: 100vh; /* Chiều cao toàn màn hình */
+    margin-left: 200px; /* Xóa margin mặc định */
+    background-color: #f9f9f9; /* Nền (tùy chọn) */
+    font-family: Arial, sans-serif; /* Font chữ đẹp hơn */
+}
